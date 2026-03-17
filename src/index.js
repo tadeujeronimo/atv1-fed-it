@@ -1,3 +1,6 @@
+// index.js
+// Ponto de entrada da aplicação React. Cria a raiz e renderiza o componente <App/>.
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
