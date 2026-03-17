@@ -16,7 +16,7 @@ function App(){
 
       <Header titulo="Minha Aplicação React"/>
 
-      <Card nome="João" idade={25}>
+      <Card nome="Tadeu" idade={25}>
         <p>Este conteúdo foi passado usando children.</p>
       </Card>
 
