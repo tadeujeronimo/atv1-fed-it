@@ -1,8 +1,8 @@
 # atv1-fed-it
 
-Projeto: Atividade 1 - Desenvolvimento Front-End com React
+Projeto: Atividade 1 | Módulo: Front-end development | Formação: Desenvolvimento Front-End com React da iTalents
 
-Este repositório contém uma pequena aplicação React criada como atividade do curso "Desenvolvimento Front-End com React" da iTalents. O objetivo é demonstrar componentes simples, passagem de props e uso de state.
+Este repositório contém uma pequena aplicação React. O objetivo é demonstrar componentes simples, passagem de props e uso de state.
 
 ## Estrutura do projeto
 
